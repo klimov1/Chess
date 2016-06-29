@@ -1,0 +1,238 @@
+{
+  "Pawn": [
+    {
+      "Side": "White",
+      "Position": {
+        "row": "1",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "2",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "3",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "4",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "5",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "6",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "7",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "8",
+        "col": "2"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "1",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "2",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "3",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "4",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "5",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "6",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "7",
+        "col": "7"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "8",
+        "col": "7"
+      }
+    }
+  ],
+  "Rock": [
+    {
+      "Side": "White",
+      "Position": {
+        "row": "1",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "8",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "1",
+        "col": "8"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "8",
+        "col": "8"
+      }
+    }
+  ],
+  "Knight": [
+    {
+      "Side": "White",
+      "Position": {
+        "row": "2",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "7",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "2",
+        "col": "8"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "7",
+        "col": "8"
+      }
+    }
+  ],
+  "Bishop": [
+    {
+      "Side": "White",
+      "Position": {
+        "row": "3",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "White",
+      "Position": {
+        "row": "6",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "3",
+        "col": "8"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "6",
+        "col": "8"
+      }
+    }
+  ],
+  "Queen": [
+    {
+      "Side": "White",
+      "Position": {
+        "row": "4",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "4",
+        "col": "8"
+      }
+    }
+  ],
+  "King": [
+    {
+      "Side": "White",
+      "Position": {
+        "row": "5",
+        "col": "1"
+      }
+    },
+    {
+      "Side": "Black",
+      "Position": {
+        "row": "5",
+        "col": "8"
+      }
+    }
+  ]
+}
